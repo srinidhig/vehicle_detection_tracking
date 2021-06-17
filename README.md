@@ -20,10 +20,12 @@ Date of completion: 08/16/2021
 
 
 **Impact**
+
 Vehicle detection and statistics in highway monitoring video scenes are of considerable significance to intelligent traffic management and control of the highway. We can use it for real-time prediction of traffic and traffic direction along with frame-wise statistics of vehicles through analysis of the output bounding boxes. Identification of causes of road accidents is imperative and recommended causes can be used to aid lawmakers enforce appropriate rules to prevent them. The system can also be employed by autonomous vehicles to detect, track, or follow other vehicles and avoid collisions. The final website can be used for traffic surveillance and vehicle monitoring.
 
 
 **References**
+
 • Extensive Collection of papers, datasets, code and other resources for object detection and tracking using deep learning – Abhineet Singh. Link: https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection#deep_learning_
 • Dataset: The UA-DETRAC Benchmark Suite. Link: https://detrac-db.rit.albany.edu/
 • Boosting Multi-Vehicle Tracking with a Joint Object Detection and Viewpoint Estimation Sensor - Roberto J. López-Sastre, Carlos Herranz-Perdiguero, Ricardo Guerrero-Gómez-Olmedo, Daniel Oñoro-Rubio, Saturnino Maldonado-Bascón
