@@ -27,9 +27,15 @@ Vehicle detection and statistics in highway monitoring video scenes are of consi
 **References**
 
 • Extensive Collection of papers, datasets, code and other resources for object detection and tracking using deep learning – Abhineet Singh. Link: https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection#deep_learning_
-• Dataset: The UA-DETRAC Benchmark Suite. Link: https://detrac-db.rit.albany.edu/
+
+• Dataset: The UAV Project. Link: https://sites.google.com/view/grli-uavdt/%E9%A6%96%E9%A1%B5
+
 • Boosting Multi-Vehicle Tracking with a Joint Object Detection and Viewpoint Estimation Sensor - Roberto J. López-Sastre, Carlos Herranz-Perdiguero, Ricardo Guerrero-Gómez-Olmedo, Daniel Oñoro-Rubio, Saturnino Maldonado-Bascón
+
 • MOTS: Multi-Object Tracking and Segmentation - Paul Voigtlaender, Michael Krause, Aljosa Osep
+
 • Vehicle Counting System using Deep Learning and Multi-Object Tracking Methods - Haoxiang Liang, Huansheng Song, Huaiyu Li, Zhe Dai
+
 • Fast R-CNN - Ross Girshick, Microsoft Research
+
 • You Only Look Once: Unified, Real-Time Object Detection - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
